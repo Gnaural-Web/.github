@@ -2,6 +2,8 @@
 
 Free, open-source binaural beats generator for the modern web, inspired by the original Gnaural project on SourceForge and updated as a pure HTML5/JavaScript web application.
 
+[Try it out](https://gnaural.net)
+
 ---
 
 ## Overview
@@ -174,6 +176,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 Additional licenses:
 **Gnaural:** GPL-2, Bret Logan, [sourceforge.net/projects/gnaural](https://sourceforge.net/projects/gnaural/)
+
 **Blanket:** GPL-3, Rafael Mardojai, [github.com/rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket)
 
 ### Sounds
